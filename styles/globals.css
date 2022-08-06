@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main: #122949;
+  --text: #EEF4ED;
+  --accent: #64BDFE;
+
+}
+
+image {
+  width: 100%;
+}
+
+body {
+  background-color: var(--main) ;
+  color: var(--text);
+  font-family: 'Jura', sans-serif;
+
+}
