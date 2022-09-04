@@ -1,0 +1,45 @@
+.about {
+    display: flex;
+    padding: 0 8rem 1rem 8rem;
+    height: 100vh;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    max-width: 70%;
+}
+
+.left > h3 {
+    font-size: 2rem;
+    padding: 0 0 1rem 1rem
+}
+
+.left > p {
+    font-size: 1rem;
+    padding: 0 0 1rem 1rem;
+    width: 70%;
+    text-align: left;
+}
+.icons {
+    font-size: 1rem;
+    padding: 0 0 1rem 1rem;
+    width: 80%;
+}
+.profile {
+    border-radius: 15px;
+    border-style: solid 4px var(--accent);
+}
+
+.iconsList{
+    padding-left: 1rem;    
+}
+.techStack {
+    max-width: 70%;
+}
+
+.techIcons {
+    margin: 0 0.5rem 0.5rem 0 ;
+    font-size: 2rem;
+    color: var(--accent);
+}

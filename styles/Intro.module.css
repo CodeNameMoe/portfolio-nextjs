@@ -1,0 +1,29 @@
+.container {
+    font-size: 2.5rem;
+    padding-top: 4rem;
+}
+
+.fname {
+    color: var(--accent);
+}
+.type {
+    color: var(--text);
+}
+
+.card { 
+    text-align: center;
+    padding-top: 10rem;
+    height: 100vh;
+
+}
+.card > p { 
+    margin: auto;
+    padding-top: 1rem;
+    width: 70%;
+    font-size:1.5rem;
+}
+
+.card p > span { 
+   color: var(--accent);
+}
+
