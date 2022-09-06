@@ -1,3 +1,7 @@
+.filterContainer {
+    padding: 1rem 0;
+}
+
 .filterContainer button {
     font-size: 1rem;
     margin-right: 2rem;
